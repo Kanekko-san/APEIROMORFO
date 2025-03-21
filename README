@@ -1,0 +1,24 @@
+O projeto foi desenvolvido num Git Coletivo, como um trabalho acadêmico. 
+
+Fiquei responsável por desenvolver alguns elementos de nível mais baixo do jogo como:
+  * O Gerador de Labirinto;
+  * A Enciclopedia juntamente com o funcionamento interno dos Itens.
+  * O Dev-Mod
+  * A biblioteca acoes.c
+  * O funcionamento do Inventário e do Equipamento do Player, bem como seus modificadores.
+  * Os Itens Especiais e os Scrolls do jogo
+  * Implementei um Código de Trapaça para testar as funcionalidades do Jogo de alguns itens raros, e facilitar a Dungeon para testar bosses: No menu de Seleçao de Classe, digite 74. Voce terá todos os Atributos setados como 10, e iniciará com um Controle Remoto e um Mapa da Dungeon.
+
+Além disso, desenvolvi cerca de um terço dos monstros, e os seguintes bosses: 
+  * Agor
+  * BLOB
+
+
+Outros envolvidos no projeto:
+  * Patrick Gomes de Oliveira: Responsável pelo front-end, menus e manual do jogo. Desenvolveu Praticamente todo o Front-End do Jogo
+  * Caio Figueireiredo Freitas: Responsável pelas mecânicas de jogo, como monstros, laço principal de jogo, movimentação do player e gerador de encontro em cada sala, além dos itens.
+    Desenvolveu o Bosse: Imitador, Desenvolveu todos os Itens do jogo (menos os Itens especiais e Scrolls)
+  * Matheus Izidro: Agradecimentos especiais.
+
+
+
